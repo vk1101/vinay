@@ -5,7 +5,7 @@ for a in x:
         print(a, 'is smaller than',b)
         b=b
     else:
-        
+        #1st change
         print(a, 'is greater than',b)
         b=a
 print(b)
